@@ -2,7 +2,7 @@
 
 
 ## Introdução
-Essa documentação ainda está incompleta pois nós somos developers <b>cansados.</b> As novas implementações da NeoBIRL em relação a BIRL Language foram:
+Essa documentação ainda está incompleta pois nós somos developers <b>cansados.</b> As novas implementações da NeoBIRL em relação a BIRL Language, por enquanto, foram:
 1. Constantes;
 2. Bool;
 3. Structs;
